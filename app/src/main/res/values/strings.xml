@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab2_atempt1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">First blank fragment</string>
+    <string name="hello_blank_fragment2">Second blank fragment</string>
+    <string name="hello_blank_fragment3">Third blank fragment</string>
+    <string name="hello_blank_fragment4">Fourth blank fragment</string>
+    <string name="button_name">1</string>
+    <string name="button1_name">2</string>
+    <string name="button2_name">3</string>
+    <string name="button3_name">4</string>
+</resources>
